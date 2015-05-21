@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\Discovery\obj\Debug\Discovery.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\Discovery\bin\Debug\Discovery.dll
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\Discovery\bin\Debug\Discovery.pdb
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\Discovery\obj\Debug\Discovery.dll
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\Discovery\obj\Debug\Discovery.pdb

@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\ServiceDiscovery01\bin\Debug\ServiceDiscovery01.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\ServiceDiscovery01\bin\Debug\ServiceDiscovery01.exe
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\ServiceDiscovery01\bin\Debug\ServiceDiscovery01.pdb
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\ServiceDiscovery01\obj\Debug\ServiceDiscovery01.exe
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\ServiceDiscovery01\obj\Debug\ServiceDiscovery01.pdb
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\ServiceDiscovery01\obj\Debug\Host.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\ServiceDiscovery01\bin\Debug\Discovery.dll
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\ServiceDiscovery01\bin\Debug\Discovery.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServiceDiscovery01\Host\bin\Debug\ServiceDiscovery01.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServiceDiscovery01\Host\obj\Debug\ServiceDiscovery01.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServiceDiscovery01\Host\obj\Debug\ServiceDiscovery01.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServiceDiscovery01\Host\bin\Debug\ServiceDiscovery01.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServiceDiscovery01\Host\bin\Debug\ServiceDiscovery01.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServiceDiscovery01\Host\bin\Debug\Discovery.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServiceDiscovery01\Host\bin\Debug\Discovery.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServiceDiscovery01\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache

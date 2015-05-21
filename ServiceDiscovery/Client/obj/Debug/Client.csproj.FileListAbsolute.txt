@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\Client\bin\Debug\Client.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\Client\bin\Debug\Client.exe
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\Client\bin\Debug\Client.pdb
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\Client\obj\Debug\Client.exe
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\Client\obj\Debug\Client.pdb
+C:\Users\user\Documents\visual studio 2013\Projects\ServiceDiscovery01\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

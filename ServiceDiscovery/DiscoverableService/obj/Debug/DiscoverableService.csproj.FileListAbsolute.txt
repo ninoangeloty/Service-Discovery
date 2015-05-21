@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\DiscoverableService\bin\Debug\DiscoverableService.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\DiscoverableService\bin\Debug\DiscoverableService.exe
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\DiscoverableService\bin\Debug\DiscoverableService.pdb
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\DiscoverableService\obj\Debug\DiscoverableService.exe
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\DiscoverableService\obj\Debug\DiscoverableService.pdb
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\DiscoverableService\obj\Debug\DiscoverableService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+c:\users\user\documents\visual studio 2013\Projects\ServiceDiscovery01\ServiceDiscovery01\bin\Debug\ServiceDiscovery01.exe.config
