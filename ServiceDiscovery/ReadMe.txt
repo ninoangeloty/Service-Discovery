@@ -1,0 +1,3 @@
+Service Discovery in .NET can be accomplished by using a set of components that is built around WCF. That means if we need to use RESTful APIs, we need to build it using WCF and not ASP.Net's WebAPI. I have not come across any approach yet as to how WebAPI can work with service discovery.
+
+The sample application shows how a DiscoveryService is configured and how Discoverable services are registered and discovered by consuming client. WCF can be built as RESTful service using HTTP as transport protocol although it is not demonstrated in the demo.
